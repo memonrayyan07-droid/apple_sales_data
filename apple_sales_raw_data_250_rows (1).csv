@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Product,Category,Region,Country,Sales_Channel,Quantity_sold,Unit_Price,Revenue,Cost,Profit,Customer_Type,Payment_Method,Order_month,Year,Profit Margin %,Sales Category
+APL0001,12-07-2025,MacBook Air,Laptop,Asia,Singapore,Online,7.00,1199.00,8393.00,5950.00,2443.00,New,Card,July,2025,29.11%,high
+APL0002,04-01-2025,MacBook Air,Laptop,Asia,Singapore,Online,4.00,1199.00,4796.00,3400.00,1396.00,Returning,Cash,January,2025,29.11%,low
+APL0003,26-08-2025,MacBook Air,Laptop,North America,USA,Retail Store,7.00,1199.00,8393.00,5950.00,2443.00,Returning,Cash,August,2025,29.11%,high
+APL0004,28-02-2025,AirPods Pro,Audio,Europe,Germany,Retail Store,5.00,249.00,1245.00,700.00,545.00,Returning,UPI,February,2025,43.78%,low
+APL0005,18-04-2025,iPhone 15,Smartphone,North America,USA,Retail Store,5.00,799.00,3995.00,2750.00,1245.00,Returning,UPI,April,2025,31.16%,low
+APL0006,09-07-2025,iPad Air,Tablet,Asia,Japan,Distributor,2.00,699.00,1398.00,960.00,438.00,Returning,Card,July,2025,31.33%,low
+APL0007,30-06-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Retail Store,8.00,999.00,7992.00,5600.00,2392.00,New,Net Banking,June,2025,29.93%,high
+APL0008,06-12-2025,iPhone 15 Pro,Smartphone,North America,Canada,Online,7.00,999.00,6993.00,4900.00,2093.00,Returning,Card,December,2025,29.93%,high
+APL0009,04-11-2025,iPad Pro,Tablet,Asia,Singapore,Online,8.00,999.00,7992.00,5600.00,2392.00,Returning,Card,November,2025,29.93%,high
+APL0010,07-07-2025,iPhone 15,Smartphone,Europe,Italy,Distributor,4.00,799.00,3196.00,2200.00,996.00,Returning,Net Banking,July,2025,31.16%,low
+APL0011,05-02-2025,iPhone 15,Smartphone,North America,Canada,Online,2.00,799.00,1598.00,1100.00,498.00,Returning,UPI,February,2025,31.16%,low
+APL0012,22-07-2025,iPad Air,Tablet,North America,Canada,Online,6.00,699.00,4194.00,2880.00,1314.00,Returning,Net Banking,July,2025,31.33%,low
+APL0013,08-04-2025,AirPods Max,Audio,Middle East,Saudi Arabia,Distributor,2.00,549.00,1098.00,720.00,378.00,Returning,Net Banking,April,2025,34.43%,low
+APL0014,07-11-2025,MacBook Air,Laptop,Asia,Japan,Online,4.00,1199.00,4796.00,3400.00,1396.00,Returning,UPI,November,2025,29.11%,low
+APL0015,23-08-2025,Apple Watch Series 9,Wearable,North America,Canada,Retail Store,7.00,499.00,3493.00,2240.00,1253.00,New,Cash,August,2025,35.87%,low
+APL0016,13-02-2025,iPhone 15,Smartphone,Middle East,UAE,Retail Store,1.00,799.00,799.00,550.00,249.00,Returning,Card,February,2025,31.16%,low
+APL0017,15-03-2025,Apple Watch Series 9,Wearable,Asia,Japan,Online,1.00,499.00,499.00,320.00,179.00,New,Card,March,2025,35.87%,low
+APL0018,21-06-2025,iPhone 15 Pro,Smartphone,Asia,Singapore,Distributor,5.00,999.00,4995.00,3500.00,1495.00,New,Cash,June,2025,29.93%,low
+APL0019,07-08-2025,iPad Air,Tablet,North America,Canada,Online,3.00,699.00,2097.00,1440.00,657.00,New,Cash,August,2025,31.33%,low
+APL0020,20-09-2025,MacBook Pro,Laptop,Asia,Japan,Retail Store,1.00,1999.00,1999.00,1450.00,549.00,Returning,UPI,September,2025,27.46%,low
+APL0021,25-05-2025,MacBook Pro,Laptop,Europe,UK,Distributor,6.00,1999.00,11994.00,8700.00,3294.00,New,Card,May,2025,27.46%,high
+APL0022,29-03-2025,iPhone 15,Smartphone,Middle East,UAE,Distributor,4.00,799.00,3196.00,2200.00,996.00,New,Card,March,2025,31.16%,low
+APL0023,24-02-2025,Apple Watch Series 9,Wearable,Middle East,Saudi Arabia,Retail Store,3.00,499.00,1497.00,960.00,537.00,Returning,UPI,February,2025,35.87%,low
+APL0024,12-02-2025,AirPods Max,Audio,Asia,Singapore,Online,8.00,549.00,4392.00,2880.00,1512.00,Returning,Card,February,2025,34.43%,low
+APL0025,01-01-2025,iPad Pro,Tablet,Europe,Germany,Distributor,8.00,999.00,7992.00,5600.00,2392.00,New,Cash,January,2025,29.93%,high
+APL0026,25-10-2025,iPad Air,Tablet,Asia,Japan,Retail Store,5.00,699.00,3495.00,2400.00,1095.00,New,Cash,October,2025,31.33%,low
+APL0027,22-01-2025,AirPods Pro,Audio,Asia,Singapore,Retail Store,7.00,249.00,1743.00,980.00,763.00,New,Cash,January,2025,43.78%,low
+APL0028,26-04-2025,MacBook Pro,Laptop,Europe,Italy,Distributor,8.00,1999.00,15992.00,11600.00,4392.00,Returning,Cash,April,2025,27.46%,high
+APL0029,15-03-2025,iPhone 15,Smartphone,North America,Canada,Retail Store,7.00,799.00,5593.00,3850.00,1743.00,New,UPI,March,2025,31.16%,high
+APL0030,08-06-2025,iPad Air,Tablet,Asia,India,Online,6.00,699.00,4194.00,2880.00,1314.00,Returning,Cash,June,2025,31.33%,low
+APL0031,08-02-2025,MacBook Air,Laptop,North America,USA,Distributor,1.00,1199.00,1199.00,850.00,349.00,New,Card,February,2025,29.11%,low
+APL0032,16-09-2025,iPhone 15,Smartphone,North America,USA,Retail Store,2.00,799.00,1598.00,1100.00,498.00,Returning,Card,September,2025,31.16%,low
+APL0033,16-10-2025,Apple Accessories,Accessories,Europe,Italy,Distributor,1.00,99.00,99.00,40.00,59.00,New,Cash,October,2025,59.60%,low
+APL0034,21-02-2025,MacBook Air,Laptop,Middle East,UAE,Distributor,1.00,1199.00,1199.00,850.00,349.00,New,UPI,February,2025,29.11%,low
+APL0035,13-08-2025,iPad Pro,Tablet,North America,USA,Distributor,4.00,999.00,3996.00,2800.00,1196.00,Returning,Net Banking,August,2025,29.93%,low
+APL0036,29-04-2025,iPhone 15,Smartphone,Middle East,UAE,Online,6.00,799.00,4794.00,3300.00,1494.00,Returning,Cash,April,2025,31.16%,low
+APL0037,28-07-2025,iPad Air,Tablet,Asia,India,Retail Store,2.00,699.00,1398.00,960.00,438.00,Returning,Card,July,2025,31.33%,low
+APL0038,07-08-2025,Apple Watch Series 9,Wearable,Middle East,Saudi Arabia,Distributor,8.00,499.00,3992.00,2560.00,1432.00,Returning,Cash,August,2025,35.87%,low
+APL0039,10-12-2025,AirPods Pro,Audio,North America,Canada,Online,2.00,249.00,498.00,280.00,218.00,New,Cash,December,2025,43.78%,low
+APL0040,01-02-2025,MacBook Air,Laptop,Asia,India,Distributor,6.00,1199.00,7194.00,5100.00,2094.00,New,Cash,February,2025,29.11%,high
+APL0041,09-08-2025,MacBook Pro,Laptop,Europe,Germany,Retail Store,8.00,1999.00,15992.00,11600.00,4392.00,Returning,Cash,August,2025,27.46%,high
+APL0042,26-07-2025,Apple Accessories,Accessories,North America,USA,Distributor,1.00,99.00,99.00,40.00,59.00,New,Card,July,2025,59.60%,low
+APL0043,27-11-2025,iPhone 15 Pro,Smartphone,North America,USA,Distributor,8.00,999.00,7992.00,5600.00,2392.00,Returning,Cash,November,2025,29.93%,high
+APL0044,05-02-2025,iPad Pro,Tablet,Middle East,UAE,Retail Store,4.00,999.00,3996.00,2800.00,1196.00,Returning,UPI,February,2025,29.93%,low
+APL0045,29-08-2025,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Retail Store,3.00,999.00,2997.00,2100.00,897.00,Returning,Net Banking,August,2025,29.93%,low
+APL0046,15-03-2025,AirPods Max,Audio,Europe,Italy,Distributor,3.00,549.00,1647.00,1080.00,567.00,Returning,Net Banking,March,2025,34.43%,low
+APL0047,29-04-2025,iPad Pro,Tablet,Europe,Germany,Retail Store,4.00,999.00,3996.00,2800.00,1196.00,Returning,Cash,April,2025,29.93%,low
+APL0048,13-12-2025,iPhone 15,Smartphone,Middle East,UAE,Online,4.00,799.00,3196.00,2200.00,996.00,Returning,Net Banking,December,2025,31.16%,low
+APL0049,28-07-2025,iPhone 15 Pro,Smartphone,Europe,Germany,Online,3.00,999.00,2997.00,2100.00,897.00,New,Net Banking,July,2025,29.93%,low
+APL0050,11-10-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Online,1.00,999.00,999.00,700.00,299.00,New,UPI,October,2025,29.93%,low
+APL0051,18-07-2025,Apple Watch Series 9,Wearable,North America,USA,Distributor,4.00,499.00,1996.00,1280.00,716.00,Returning,UPI,July,2025,35.87%,low
+APL0052,30-07-2025,iPad Air,Tablet,Middle East,Saudi Arabia,Retail Store,2.00,699.00,1398.00,960.00,438.00,Returning,Cash,July,2025,31.33%,low
+APL0053,20-09-2025,iPad Pro,Tablet,Asia,Japan,Retail Store,5.00,999.00,4995.00,3500.00,1495.00,Returning,Net Banking,September,2025,29.93%,low
+APL0054,18-03-2025,iPhone 15 Pro,Smartphone,North America,Canada,Distributor,2.00,999.00,1998.00,1400.00,598.00,New,Card,March,2025,29.93%,low
+APL0055,15-06-2025,AirPods Pro,Audio,Europe,Germany,Retail Store,7.00,249.00,1743.00,980.00,763.00,Returning,Card,June,2025,43.78%,low
+APL0056,27-06-2025,AirPods Max,Audio,North America,USA,Online,3.00,549.00,1647.00,1080.00,567.00,New,Card,June,2025,34.43%,low
+APL0057,05-03-2025,Apple Watch Series 9,Wearable,Europe,UK,Distributor,4.00,499.00,1996.00,1280.00,716.00,Returning,Card,March,2025,35.87%,low
+APL0058,09-01-2025,MacBook Air,Laptop,Middle East,UAE,Distributor,2.00,1199.00,2398.00,1700.00,698.00,Returning,Cash,January,2025,29.11%,low
+APL0059,20-02-2025,iPad Pro,Tablet,Europe,Germany,Retail Store,8.00,999.00,7992.00,5600.00,2392.00,Returning,Net Banking,February,2025,29.93%,high
+APL0060,30-12-2025,Apple Watch Series 9,Wearable,North America,Canada,Distributor,6.00,499.00,2994.00,1920.00,1074.00,Returning,Net Banking,December,2025,35.87%,low
+APL0061,16-08-2025,MacBook Air,Laptop,North America,USA,Distributor,4.00,1199.00,4796.00,3400.00,1396.00,Returning,Card,August,2025,29.11%,low
+APL0062,21-06-2025,iPad Air,Tablet,Asia,Singapore,Retail Store,5.00,699.00,3495.00,2400.00,1095.00,Returning,Cash,June,2025,31.33%,low
+APL0063,25-04-2025,MacBook Pro,Laptop,Asia,India,Online,6.00,1999.00,11994.00,8700.00,3294.00,New,Card,April,2025,27.46%,high
+APL0064,08-02-2025,MacBook Pro,Laptop,North America,USA,Distributor,8.00,1999.00,15992.00,11600.00,4392.00,New,UPI,February,2025,27.46%,high
+APL0065,15-03-2025,Apple Watch Series 9,Wearable,Middle East,Saudi Arabia,Retail Store,1.00,499.00,499.00,320.00,179.00,Returning,Card,March,2025,35.87%,low
+APL0066,04-08-2025,iPad Air,Tablet,Asia,Japan,Distributor,4.00,699.00,2796.00,1920.00,876.00,New,Cash,August,2025,31.33%,low
+APL0067,02-01-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Retail Store,5.00,999.00,4995.00,3500.00,1495.00,New,Card,January,2025,29.93%,low
+APL0068,20-05-2025,AirPods Max,Audio,Middle East,Saudi Arabia,Retail Store,3.00,549.00,1647.00,1080.00,567.00,Returning,Net Banking,May,2025,34.43%,low
+APL0069,16-05-2025,MacBook Pro,Laptop,Asia,Japan,Distributor,7.00,1999.00,13993.00,10150.00,3843.00,New,UPI,May,2025,27.46%,high
+APL0070,22-02-2025,MacBook Air,Laptop,Asia,Singapore,Distributor,3.00,1199.00,3597.00,2550.00,1047.00,New,Cash,February,2025,29.11%,low
+APL0071,24-11-2025,AirPods Max,Audio,Middle East,Saudi Arabia,Distributor,5.00,549.00,2745.00,1800.00,945.00,Returning,UPI,November,2025,34.43%,low
+APL0072,04-10-2025,Apple Watch Series 9,Wearable,North America,Canada,Distributor,3.00,499.00,1497.00,960.00,537.00,New,Card,October,2025,35.87%,low
+APL0073,14-06-2025,MacBook Pro,Laptop,Middle East,UAE,Online,5.00,1999.00,9995.00,7250.00,2745.00,Returning,Net Banking,June,2025,27.46%,high
+APL0074,23-05-2025,MacBook Pro,Laptop,Middle East,UAE,Online,3.00,1999.00,5997.00,4350.00,1647.00,Returning,Card,May,2025,27.46%,high
+APL0075,08-12-2025,iPhone 15 Pro,Smartphone,North America,Canada,Distributor,6.00,999.00,5994.00,4200.00,1794.00,New,UPI,December,2025,29.93%,high
+APL0076,22-12-2025,iPhone 15,Smartphone,Europe,Italy,Distributor,6.00,799.00,4794.00,3300.00,1494.00,Returning,UPI,December,2025,31.16%,low
+APL0077,03-11-2025,MacBook Pro,Laptop,Europe,Germany,Distributor,7.00,1999.00,13993.00,10150.00,3843.00,Returning,Cash,November,2025,27.46%,high
+APL0078,22-05-2025,MacBook Air,Laptop,North America,Canada,Online,1.00,1199.00,1199.00,850.00,349.00,New,Cash,May,2025,29.11%,low
+APL0079,19-11-2025,MacBook Pro,Laptop,Europe,France,Retail Store,5.00,1999.00,9995.00,7250.00,2745.00,New,Card,November,2025,27.46%,high
+APL0080,29-04-2025,iPhone 15,Smartphone,Middle East,Saudi Arabia,Retail Store,3.00,799.00,2397.00,1650.00,747.00,Returning,Net Banking,April,2025,31.16%,low
+APL0081,27-10-2025,iPhone 15,Smartphone,North America,Canada,Distributor,3.00,799.00,2397.00,1650.00,747.00,Returning,Net Banking,October,2025,31.16%,low
+APL0082,01-12-2025,Apple Accessories,Accessories,Europe,France,Online,2.00,99.00,198.00,80.00,118.00,Returning,Card,December,2025,59.60%,low
+APL0083,25-06-2025,iPad Pro,Tablet,Europe,Italy,Retail Store,4.00,999.00,3996.00,2800.00,1196.00,Returning,Card,June,2025,29.93%,low
+APL0084,21-11-2025,Apple Watch Series 9,Wearable,Europe,UK,Distributor,4.00,499.00,1996.00,1280.00,716.00,New,Card,November,2025,35.87%,low
+APL0085,15-02-2025,Apple Accessories,Accessories,Asia,Japan,Distributor,2.00,99.00,198.00,80.00,118.00,Returning,Cash,February,2025,59.60%,low
+APL0086,09-02-2025,AirPods Max,Audio,North America,USA,Retail Store,6.00,549.00,3294.00,2160.00,1134.00,New,Net Banking,February,2025,34.43%,low
+APL0087,20-01-2025,AirPods Max,Audio,Middle East,Saudi Arabia,Retail Store,4.00,549.00,2196.00,1440.00,756.00,New,Cash,January,2025,34.43%,low
+APL0088,28-04-2025,MacBook Pro,Laptop,Middle East,Saudi Arabia,Distributor,7.00,1999.00,13993.00,10150.00,3843.00,Returning,Cash,April,2025,27.46%,high
+APL0089,12-11-2025,iPhone 15 Pro,Smartphone,Asia,India,Online,7.00,999.00,6993.00,4900.00,2093.00,Returning,Cash,November,2025,29.93%,high
+APL0090,27-12-2025,Apple Watch Series 9,Wearable,Europe,UK,Online,6.00,499.00,2994.00,1920.00,1074.00,New,UPI,December,2025,35.87%,low
+APL0091,07-09-2025,iPhone 15,Smartphone,Middle East,Saudi Arabia,Retail Store,5.00,799.00,3995.00,2750.00,1245.00,Returning,UPI,September,2025,31.16%,low
+APL0092,24-11-2025,Apple Accessories,Accessories,Middle East,UAE,Online,8.00,99.00,792.00,320.00,472.00,Returning,Card,November,2025,59.60%,low
+APL0093,17-09-2025,iPhone 15,Smartphone,Asia,Singapore,Retail Store,6.00,799.00,4794.00,3300.00,1494.00,Returning,Card,September,2025,31.16%,low
+APL0094,11-06-2025,iPad Pro,Tablet,Asia,Japan,Online,8.00,999.00,7992.00,5600.00,2392.00,New,Net Banking,June,2025,29.93%,high
+APL0095,22-01-2025,iPhone 15 Pro,Smartphone,Europe,Germany,Retail Store,2.00,999.00,1998.00,1400.00,598.00,New,Card,January,2025,29.93%,low
+APL0096,10-12-2025,iPad Pro,Tablet,Europe,Italy,Online,5.00,999.00,4995.00,3500.00,1495.00,New,UPI,December,2025,29.93%,low
+APL0097,28-04-2025,MacBook Pro,Laptop,Middle East,Saudi Arabia,Distributor,3.00,1999.00,5997.00,4350.00,1647.00,Returning,Card,April,2025,27.46%,high
+APL0098,31-05-2025,iPad Air,Tablet,Middle East,Saudi Arabia,Distributor,2.00,699.00,1398.00,960.00,438.00,New,UPI,May,2025,31.33%,low
+APL0099,05-06-2025,MacBook Pro,Laptop,Middle East,Saudi Arabia,Retail Store,1.00,1999.00,1999.00,1450.00,549.00,New,Net Banking,June,2025,27.46%,low
+APL0100,10-02-2025,iPad Air,Tablet,Europe,France,Distributor,2.00,699.00,1398.00,960.00,438.00,Returning,UPI,February,2025,31.33%,low
+APL0101,07-01-2025,Apple Accessories,Accessories,Europe,UK,Retail Store,2.00,99.00,198.00,80.00,118.00,New,Net Banking,January,2025,59.60%,low
+APL0102,21-08-2025,AirPods Pro,Audio,Asia,Singapore,Retail Store,8.00,249.00,1992.00,1120.00,872.00,Returning,Net Banking,August,2025,43.78%,low
+APL0103,16-10-2025,iPhone 15,Smartphone,Europe,Italy,Retail Store,7.00,799.00,5593.00,3850.00,1743.00,New,Card,October,2025,31.16%,high
+APL0104,06-01-2025,MacBook Pro,Laptop,Asia,Japan,Online,3.00,1999.00,5997.00,4350.00,1647.00,New,UPI,January,2025,27.46%,high
+APL0105,01-11-2025,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Distributor,1.00,999.00,999.00,700.00,299.00,Returning,UPI,November,2025,29.93%,low
+APL0106,19-10-2025,iPhone 15,Smartphone,Asia,India,Distributor,7.00,799.00,5593.00,3850.00,1743.00,Returning,Net Banking,October,2025,31.16%,high
+APL0107,31-10-2025,MacBook Pro,Laptop,Asia,Singapore,Distributor,3.00,1999.00,5997.00,4350.00,1647.00,New,Cash,October,2025,27.46%,high
+APL0108,26-01-2025,AirPods Max,Audio,Middle East,UAE,Online,6.00,549.00,3294.00,2160.00,1134.00,Returning,Card,January,2025,34.43%,low
+APL0109,15-07-2025,Apple Accessories,Accessories,Asia,India,Distributor,7.00,99.00,693.00,280.00,413.00,Returning,UPI,July,2025,59.60%,low
+APL0110,01-07-2025,Apple Watch Series 9,Wearable,Middle East,UAE,Retail Store,2.00,499.00,998.00,640.00,358.00,New,Cash,July,2025,35.87%,low
+APL0111,07-06-2025,AirPods Pro,Audio,Asia,Japan,Online,3.00,249.00,747.00,420.00,327.00,Returning,Cash,June,2025,43.78%,low
+APL0112,28-04-2025,iPhone 15,Smartphone,Middle East,UAE,Retail Store,1.00,799.00,799.00,550.00,249.00,New,Card,April,2025,31.16%,low
+APL0113,17-01-2025,iPad Pro,Tablet,Middle East,UAE,Retail Store,8.00,999.00,7992.00,5600.00,2392.00,Returning,Cash,January,2025,29.93%,high
+APL0114,10-12-2025,AirPods Max,Audio,Europe,Italy,Online,8.00,549.00,4392.00,2880.00,1512.00,New,UPI,December,2025,34.43%,low
+APL0115,02-03-2025,iPad Air,Tablet,Middle East,Saudi Arabia,Online,2.00,699.00,1398.00,960.00,438.00,New,Card,March,2025,31.33%,low
+APL0116,07-05-2025,iPhone 15 Pro,Smartphone,North America,Canada,Distributor,7.00,999.00,6993.00,4900.00,2093.00,Returning,Cash,May,2025,29.93%,high
+APL0117,13-10-2025,Apple Watch Series 9,Wearable,North America,Canada,Distributor,2.00,499.00,998.00,640.00,358.00,New,Card,October,2025,35.87%,low
+APL0118,03-06-2025,MacBook Air,Laptop,Europe,Italy,Online,5.00,1199.00,5995.00,4250.00,1745.00,Returning,Card,June,2025,29.11%,high
+APL0119,13-06-2025,AirPods Max,Audio,Europe,UK,Retail Store,5.00,549.00,2745.00,1800.00,945.00,Returning,Cash,June,2025,34.43%,low
+APL0120,10-09-2025,AirPods Pro,Audio,Europe,Germany,Retail Store,4.00,249.00,996.00,560.00,436.00,New,Net Banking,September,2025,43.78%,low
+APL0121,15-06-2025,Apple Watch Series 9,Wearable,North America,USA,Retail Store,3.00,499.00,1497.00,960.00,537.00,New,Card,June,2025,35.87%,low
+APL0122,26-12-2025,iPhone 15,Smartphone,Asia,Japan,Retail Store,2.00,799.00,1598.00,1100.00,498.00,Returning,Net Banking,December,2025,31.16%,low
+APL0123,09-03-2025,AirPods Max,Audio,Asia,Singapore,Distributor,4.00,549.00,2196.00,1440.00,756.00,New,Card,March,2025,34.43%,low
+APL0124,29-03-2025,Apple Accessories,Accessories,Asia,Japan,Retail Store,5.00,99.00,495.00,200.00,295.00,New,Cash,March,2025,59.60%,low
+APL0125,04-08-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Online,5.00,999.00,4995.00,3500.00,1495.00,New,UPI,August,2025,29.93%,low
+APL0126,25-02-2025,MacBook Air,Laptop,Asia,Singapore,Distributor,6.00,1199.00,7194.00,5100.00,2094.00,Returning,Cash,February,2025,29.11%,high
+APL0127,30-07-2025,AirPods Pro,Audio,Europe,UK,Retail Store,7.00,249.00,1743.00,980.00,763.00,Returning,Net Banking,July,2025,43.78%,low
+APL0128,14-07-2025,Apple Accessories,Accessories,Asia,Japan,Distributor,3.00,99.00,297.00,120.00,177.00,New,Card,July,2025,59.60%,low
+APL0129,23-01-2025,MacBook Air,Laptop,Europe,Germany,Online,8.00,1199.00,9592.00,6800.00,2792.00,New,UPI,January,2025,29.11%,high
+APL0130,11-09-2025,Apple Watch Series 9,Wearable,Middle East,UAE,Retail Store,5.00,499.00,2495.00,1600.00,895.00,New,Net Banking,September,2025,35.87%,low
+APL0131,01-06-2025,iPhone 15,Smartphone,Asia,India,Online,2.00,799.00,1598.00,1100.00,498.00,New,Card,June,2025,31.16%,low
+APL0132,27-08-2025,iPad Air,Tablet,Middle East,Saudi Arabia,Retail Store,8.00,699.00,5592.00,3840.00,1752.00,Returning,Card,August,2025,31.33%,high
+APL0133,28-04-2025,Apple Watch Series 9,Wearable,Europe,UK,Online,1.00,499.00,499.00,320.00,179.00,Returning,Card,April,2025,35.87%,low
+APL0134,08-04-2025,MacBook Pro,Laptop,Middle East,Saudi Arabia,Online,8.00,1999.00,15992.00,11600.00,4392.00,Returning,Net Banking,April,2025,27.46%,high
+APL0135,17-07-2025,MacBook Air,Laptop,North America,Canada,Online,7.00,1199.00,8393.00,5950.00,2443.00,New,UPI,July,2025,29.11%,high
+APL0136,08-03-2025,MacBook Pro,Laptop,North America,USA,Distributor,6.00,1999.00,11994.00,8700.00,3294.00,New,UPI,March,2025,27.46%,high
+APL0137,26-12-2025,MacBook Pro,Laptop,Asia,Singapore,Distributor,2.00,1999.00,3998.00,2900.00,1098.00,Returning,Net Banking,December,2025,27.46%,low
+APL0138,24-08-2025,Apple Accessories,Accessories,Asia,Japan,Retail Store,2.00,99.00,198.00,80.00,118.00,New,UPI,August,2025,59.60%,low
+APL0139,11-06-2025,iPad Pro,Tablet,Europe,France,Retail Store,3.00,999.00,2997.00,2100.00,897.00,Returning,Net Banking,June,2025,29.93%,low
+APL0140,31-07-2025,Apple Watch Series 9,Wearable,North America,USA,Distributor,5.00,499.00,2495.00,1600.00,895.00,Returning,UPI,July,2025,35.87%,low
+APL0141,07-04-2025,MacBook Pro,Laptop,Europe,Italy,Online,6.00,1999.00,11994.00,8700.00,3294.00,New,Cash,April,2025,27.46%,high
+APL0142,05-05-2025,Apple Accessories,Accessories,Europe,Italy,Online,5.00,99.00,495.00,200.00,295.00,New,UPI,May,2025,59.60%,low
+APL0143,11-06-2025,iPhone 15 Pro,Smartphone,North America,USA,Distributor,4.00,999.00,3996.00,2800.00,1196.00,New,UPI,June,2025,29.93%,low
+APL0144,21-11-2025,iPad Air,Tablet,Europe,Italy,Distributor,3.00,699.00,2097.00,1440.00,657.00,Returning,Net Banking,November,2025,31.33%,low
+APL0145,26-04-2025,iPhone 15 Pro,Smartphone,North America,USA,Online,6.00,999.00,5994.00,4200.00,1794.00,Returning,UPI,April,2025,29.93%,high
+APL0146,28-11-2025,MacBook Air,Laptop,Middle East,Saudi Arabia,Distributor,6.00,1199.00,7194.00,5100.00,2094.00,Returning,Net Banking,November,2025,29.11%,high
+APL0147,19-07-2025,iPad Air,Tablet,Asia,Japan,Online,8.00,699.00,5592.00,3840.00,1752.00,Returning,Cash,July,2025,31.33%,high
+APL0148,02-02-2025,iPad Air,Tablet,North America,USA,Distributor,8.00,699.00,5592.00,3840.00,1752.00,New,Card,February,2025,31.33%,high
+APL0149,20-09-2025,iPad Air,Tablet,Asia,Singapore,Retail Store,5.00,699.00,3495.00,2400.00,1095.00,New,Net Banking,September,2025,31.33%,low
+APL0150,16-12-2025,Apple Accessories,Accessories,North America,Canada,Distributor,6.00,99.00,594.00,240.00,354.00,Returning,Card,December,2025,59.60%,low
+APL0151,23-10-2025,AirPods Max,Audio,Europe,Germany,Online,5.00,549.00,2745.00,1800.00,945.00,New,UPI,October,2025,34.43%,low
+APL0152,27-02-2025,AirPods Pro,Audio,Middle East,Saudi Arabia,Retail Store,6.00,249.00,1494.00,840.00,654.00,Returning,Card,February,2025,43.78%,low
+APL0153,11-09-2025,AirPods Pro,Audio,Asia,India,Online,7.00,249.00,1743.00,980.00,763.00,New,Net Banking,September,2025,43.78%,low
+APL0154,11-11-2025,Apple Accessories,Accessories,Asia,Singapore,Online,4.00,99.00,396.00,160.00,236.00,New,Net Banking,November,2025,59.60%,low
+APL0155,22-09-2025,MacBook Air,Laptop,Middle East,UAE,Online,4.00,1199.00,4796.00,3400.00,1396.00,New,UPI,September,2025,29.11%,low
+APL0156,13-03-2025,iPad Air,Tablet,Asia,Japan,Distributor,1.00,699.00,699.00,480.00,219.00,New,Card,March,2025,31.33%,low
+APL0157,19-01-2025,iPad Air,Tablet,North America,Canada,Online,5.00,699.00,3495.00,2400.00,1095.00,Returning,Net Banking,January,2025,31.33%,low
+APL0158,06-05-2025,Apple Accessories,Accessories,Asia,Japan,Online,5.00,99.00,495.00,200.00,295.00,New,Cash,May,2025,59.60%,low
+APL0159,17-03-2025,iPad Air,Tablet,Middle East,UAE,Online,1.00,699.00,699.00,480.00,219.00,Returning,UPI,March,2025,31.33%,low
+APL0160,15-08-2025,MacBook Air,Laptop,North America,Canada,Online,6.00,1199.00,7194.00,5100.00,2094.00,Returning,Cash,August,2025,29.11%,high
+APL0161,18-08-2025,iPad Air,Tablet,North America,USA,Distributor,3.00,699.00,2097.00,1440.00,657.00,New,Card,August,2025,31.33%,low
+APL0162,08-12-2025,MacBook Air,Laptop,Asia,Singapore,Distributor,4.00,1199.00,4796.00,3400.00,1396.00,Returning,Card,December,2025,29.11%,low
+APL0163,09-10-2025,iPhone 15,Smartphone,Asia,India,Retail Store,4.00,799.00,3196.00,2200.00,996.00,New,UPI,October,2025,31.16%,low
+APL0164,30-07-2025,iPhone 15,Smartphone,Europe,Germany,Distributor,1.00,799.00,799.00,550.00,249.00,New,Cash,July,2025,31.16%,low
+APL0165,20-06-2025,iPhone 15,Smartphone,North America,Canada,Retail Store,3.00,799.00,2397.00,1650.00,747.00,New,Card,June,2025,31.16%,low
+APL0166,04-11-2025,iPad Air,Tablet,Middle East,UAE,Distributor,5.00,699.00,3495.00,2400.00,1095.00,Returning,UPI,November,2025,31.33%,low
+APL0167,07-10-2025,AirPods Max,Audio,Middle East,Saudi Arabia,Retail Store,4.00,549.00,2196.00,1440.00,756.00,New,UPI,October,2025,34.43%,low
+APL0168,10-12-2025,MacBook Pro,Laptop,North America,USA,Retail Store,2.00,1999.00,3998.00,2900.00,1098.00,New,Cash,December,2025,27.46%,low
+APL0169,15-03-2025,MacBook Pro,Laptop,Middle East,UAE,Distributor,7.00,1999.00,13993.00,10150.00,3843.00,New,Cash,March,2025,27.46%,high
+APL0170,14-07-2025,MacBook Air,Laptop,Europe,UK,Retail Store,8.00,1199.00,9592.00,6800.00,2792.00,New,Cash,July,2025,29.11%,high
+APL0171,08-10-2025,Apple Watch Series 9,Wearable,North America,USA,Retail Store,3.00,499.00,1497.00,960.00,537.00,New,UPI,October,2025,35.87%,low
+APL0172,12-01-2025,MacBook Air,Laptop,North America,Canada,Online,7.00,1199.00,8393.00,5950.00,2443.00,New,UPI,January,2025,29.11%,high
+APL0173,23-09-2025,iPad Pro,Tablet,North America,Canada,Distributor,5.00,999.00,4995.00,3500.00,1495.00,New,Net Banking,September,2025,29.93%,low
+APL0174,25-03-2025,iPad Pro,Tablet,Europe,Germany,Retail Store,8.00,999.00,7992.00,5600.00,2392.00,New,Cash,March,2025,29.93%,high
+APL0175,02-12-2025,iPad Pro,Tablet,North America,Canada,Retail Store,7.00,999.00,6993.00,4900.00,2093.00,New,Cash,December,2025,29.93%,high
+APL0176,25-08-2025,iPad Pro,Tablet,Europe,France,Online,2.00,999.00,1998.00,1400.00,598.00,Returning,Net Banking,August,2025,29.93%,low
+APL0177,23-07-2025,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Distributor,5.00,999.00,4995.00,3500.00,1495.00,New,Card,July,2025,29.93%,low
+APL0178,05-09-2025,Apple Watch Series 9,Wearable,Asia,India,Distributor,3.00,499.00,1497.00,960.00,537.00,Returning,UPI,September,2025,35.87%,low
+APL0179,12-12-2025,iPhone 15,Smartphone,North America,Canada,Retail Store,1.00,799.00,799.00,550.00,249.00,Returning,Net Banking,December,2025,31.16%,low
+APL0180,26-08-2025,iPhone 15 Pro,Smartphone,North America,Canada,Retail Store,2.00,999.00,1998.00,1400.00,598.00,Returning,Card,August,2025,29.93%,low
+APL0181,27-06-2025,iPad Air,Tablet,Asia,Japan,Retail Store,7.00,699.00,4893.00,3360.00,1533.00,New,UPI,June,2025,31.33%,low
+APL0182,08-02-2025,iPad Pro,Tablet,Asia,Japan,Distributor,7.00,999.00,6993.00,4900.00,2093.00,Returning,UPI,February,2025,29.93%,high
+APL0183,14-12-2025,AirPods Max,Audio,North America,USA,Online,7.00,549.00,3843.00,2520.00,1323.00,Returning,UPI,December,2025,34.43%,low
+APL0184,27-05-2025,AirPods Max,Audio,Europe,Germany,Distributor,8.00,549.00,4392.00,2880.00,1512.00,Returning,Cash,May,2025,34.43%,low
+APL0185,29-07-2025,AirPods Pro,Audio,Asia,India,Online,7.00,249.00,1743.00,980.00,763.00,New,Cash,July,2025,43.78%,low
+APL0186,17-08-2025,MacBook Air,Laptop,Europe,Germany,Distributor,2.00,1199.00,2398.00,1700.00,698.00,Returning,Cash,August,2025,29.11%,low
+APL0187,02-05-2025,iPad Pro,Tablet,Europe,UK,Retail Store,8.00,999.00,7992.00,5600.00,2392.00,New,Cash,May,2025,29.93%,high
+APL0188,11-04-2025,Apple Watch Series 9,Wearable,Middle East,Saudi Arabia,Retail Store,7.00,499.00,3493.00,2240.00,1253.00,Returning,Cash,April,2025,35.87%,low
+APL0189,13-11-2025,iPhone 15,Smartphone,Middle East,Saudi Arabia,Retail Store,2.00,799.00,1598.00,1100.00,498.00,New,Net Banking,November,2025,31.16%,low
+APL0190,02-03-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Online,2.00,999.00,1998.00,1400.00,598.00,New,UPI,March,2025,29.93%,low
+APL0191,05-03-2025,MacBook Air,Laptop,Europe,France,Retail Store,7.00,1199.00,8393.00,5950.00,2443.00,New,Cash,March,2025,29.11%,high
+APL0192,03-02-2025,Apple Watch Series 9,Wearable,North America,Canada,Online,2.00,499.00,998.00,640.00,358.00,Returning,Cash,February,2025,35.87%,low
+APL0193,22-03-2025,iPhone 15,Smartphone,North America,USA,Retail Store,6.00,799.00,4794.00,3300.00,1494.00,Returning,UPI,March,2025,31.16%,low
+APL0194,08-12-2025,Apple Accessories,Accessories,Middle East,UAE,Retail Store,4.00,99.00,396.00,160.00,236.00,Returning,UPI,December,2025,59.60%,low
+APL0195,16-08-2025,iPhone 15,Smartphone,Asia,Singapore,Retail Store,5.00,799.00,3995.00,2750.00,1245.00,New,Net Banking,August,2025,31.16%,low
+APL0196,26-09-2025,Apple Watch Series 9,Wearable,Middle East,UAE,Distributor,3.00,499.00,1497.00,960.00,537.00,New,UPI,September,2025,35.87%,low
+APL0197,10-06-2025,iPhone 15 Pro,Smartphone,Middle East,UAE,Online,3.00,999.00,2997.00,2100.00,897.00,New,Card,June,2025,29.93%,low
+APL0198,11-07-2025,MacBook Air,Laptop,Middle East,Saudi Arabia,Distributor,7.00,1199.00,8393.00,5950.00,2443.00,New,Net Banking,July,2025,29.11%,high
+APL0199,15-02-2025,iPhone 15 Pro,Smartphone,Asia,Japan,Distributor,6.00,999.00,5994.00,4200.00,1794.00,Returning,Card,February,2025,29.93%,high
+APL0200,23-01-2025,AirPods Max,Audio,Europe,Italy,Retail Store,4.00,549.00,2196.00,1440.00,756.00,Returning,Net Banking,January,2025,34.43%,low
+APL0201,29-06-2025,iPad Pro,Tablet,North America,Canada,Distributor,4.00,999.00,3996.00,2800.00,1196.00,New,Card,June,2025,29.93%,low
+APL0202,11-11-2025,MacBook Air,Laptop,Europe,UK,Retail Store,5.00,1199.00,5995.00,4250.00,1745.00,New,Net Banking,November,2025,29.11%,high
+APL0203,02-04-2025,AirPods Pro,Audio,Europe,Italy,Retail Store,7.00,249.00,1743.00,980.00,763.00,New,Net Banking,April,2025,43.78%,low
+APL0204,12-05-2025,iPad Air,Tablet,Europe,Italy,Distributor,6.00,699.00,4194.00,2880.00,1314.00,New,Cash,May,2025,31.33%,low
+APL0205,09-03-2025,Apple Watch Series 9,Wearable,Middle East,Saudi Arabia,Online,7.00,499.00,3493.00,2240.00,1253.00,Returning,Net Banking,March,2025,35.87%,low
+APL0206,16-12-2025,AirPods Max,Audio,North America,Canada,Online,1.00,549.00,549.00,360.00,189.00,Returning,Card,December,2025,34.43%,low
+APL0207,29-11-2025,iPhone 15 Pro,Smartphone,Middle East,Saudi Arabia,Online,2.00,999.00,1998.00,1400.00,598.00,Returning,UPI,November,2025,29.93%,low
+APL0208,04-07-2025,Apple Accessories,Accessories,Asia,India,Online,1.00,99.00,99.00,40.00,59.00,Returning,Card,July,2025,59.60%,low
+APL0209,08-06-2025,MacBook Air,Laptop,Middle East,Saudi Arabia,Online,5.00,1199.00,5995.00,4250.00,1745.00,New,Net Banking,June,2025,29.11%,high
+APL0210,02-02-2025,iPhone 15,Smartphone,Middle East,Saudi Arabia,Distributor,1.00,799.00,799.00,550.00,249.00,New,Card,February,2025,31.16%,low
+APL0211,26-08-2025,iPhone 15,Smartphone,Europe,UK,Retail Store,8.00,799.00,6392.00,4400.00,1992.00,Returning,UPI,August,2025,31.16%,high
+APL0212,01-11-2025,MacBook Air,Laptop,North America,USA,Online,6.00,1199.00,7194.00,5100.00,2094.00,Returning,Cash,November,2025,29.11%,high
+APL0213,02-04-2025,Apple Watch Series 9,Wearable,Asia,Singapore,Retail Store,5.00,499.00,2495.00,1600.00,895.00,Returning,UPI,April,2025,35.87%,low
+APL0214,31-07-2025,iPhone 15 Pro,Smartphone,Middle East,UAE,Online,8.00,999.00,7992.00,5600.00,2392.00,Returning,UPI,July,2025,29.93%,high
+APL0215,09-06-2025,iPhone 15,Smartphone,Middle East,UAE,Online,2.00,799.00,1598.00,1100.00,498.00,New,Cash,June,2025,31.16%,low
+APL0216,12-06-2025,MacBook Air,Laptop,Middle East,Saudi Arabia,Distributor,6.00,1199.00,7194.00,5100.00,2094.00,New,Net Banking,June,2025,29.11%,high
+APL0217,10-02-2025,MacBook Air,Laptop,Europe,Italy,Online,5.00,1199.00,5995.00,4250.00,1745.00,Returning,Card,February,2025,29.11%,high
+APL0218,18-07-2025,MacBook Air,Laptop,Asia,India,Distributor,1.00,1199.00,1199.00,850.00,349.00,New,UPI,July,2025,29.11%,low
+APL0219,20-03-2025,AirPods Max,Audio,Europe,Germany,Distributor,6.00,549.00,3294.00,2160.00,1134.00,Returning,Card,March,2025,34.43%,low
+APL0220,04-03-2025,MacBook Air,Laptop,Middle East,Saudi Arabia,Online,4.00,1199.00,4796.00,3400.00,1396.00,Returning,UPI,March,2025,29.11%,low
+APL0221,03-11-2025,AirPods Max,Audio,Middle East,UAE,Retail Store,4.00,549.00,2196.00,1440.00,756.00,Returning,Card,November,2025,34.43%,low
+APL0222,29-11-2025,AirPods Max,Audio,North America,Canada,Online,2.00,549.00,1098.00,720.00,378.00,Returning,Card,November,2025,34.43%,low
+APL0223,02-01-2025,AirPods Max,Audio,Asia,India,Distributor,2.00,549.00,1098.00,720.00,378.00,New,Card,January,2025,34.43%,low
+APL0224,14-04-2025,AirPods Max,Audio,North America,USA,Distributor,8.00,549.00,4392.00,2880.00,1512.00,Returning,UPI,April,2025,34.43%,low
+APL0225,22-12-2025,iPad Air,Tablet,Asia,India,Online,6.00,699.00,4194.00,2880.00,1314.00,Returning,Cash,December,2025,31.33%,low
+APL0226,17-07-2025,AirPods Max,Audio,Europe,France,Retail Store,3.00,549.00,1647.00,1080.00,567.00,Returning,Card,July,2025,34.43%,low
+APL0227,07-08-2025,iPhone 15 Pro,Smartphone,Europe,France,Retail Store,2.00,999.00,1998.00,1400.00,598.00,New,Card,August,2025,29.93%,low
+APL0228,08-12-2025,iPhone 15,Smartphone,Middle East,UAE,Online,8.00,799.00,6392.00,4400.00,1992.00,New,UPI,December,2025,31.16%,high
+APL0229,09-08-2025,iPad Air,Tablet,Middle East,Saudi Arabia,Distributor,4.00,699.00,2796.00,1920.00,876.00,New,Card,August,2025,31.33%,low
+APL0230,22-12-2025,MacBook Air,Laptop,Europe,UK,Retail Store,6.00,1199.00,7194.00,5100.00,2094.00,Returning,Cash,December,2025,29.11%,high
+APL0231,27-05-2025,MacBook Air,Laptop,Asia,Singapore,Retail Store,4.00,1199.00,4796.00,3400.00,1396.00,New,Cash,May,2025,29.11%,low
+APL0232,31-08-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Retail Store,3.00,999.00,2997.00,2100.00,897.00,Returning,Card,August,2025,29.93%,low
+APL0233,22-04-2025,iPad Pro,Tablet,Middle East,Saudi Arabia,Retail Store,1.00,999.00,999.00,700.00,299.00,Returning,Net Banking,April,2025,29.93%,low
+APL0234,15-12-2025,iPad Pro,Tablet,Europe,Italy,Distributor,1.00,999.00,999.00,700.00,299.00,Returning,Card,December,2025,29.93%,low
+APL0235,15-01-2025,MacBook Pro,Laptop,North America,Canada,Online,8.00,1999.00,15992.00,11600.00,4392.00,Returning,Cash,January,2025,27.46%,high
+APL0236,04-03-2025,AirPods Pro,Audio,North America,USA,Online,5.00,249.00,1245.00,700.00,545.00,New,Card,March,2025,43.78%,low
+APL0237,09-05-2025,Apple Watch Series 9,Wearable,Middle East,UAE,Online,4.00,499.00,1996.00,1280.00,716.00,Returning,Cash,May,2025,35.87%,low
+APL0238,08-03-2025,Apple Watch Series 9,Wearable,North America,USA,Distributor,1.00,499.00,499.00,320.00,179.00,Returning,Cash,March,2025,35.87%,low
+APL0239,26-04-2025,iPhone 15 Pro,Smartphone,North America,Canada,Online,8.00,999.00,7992.00,5600.00,2392.00,New,Net Banking,April,2025,29.93%,high
+APL0240,29-04-2025,MacBook Air,Laptop,Europe,Germany,Distributor,1.00,1199.00,1199.00,850.00,349.00,New,Card,April,2025,29.11%,low
+APL0241,16-07-2025,MacBook Air,Laptop,Asia,Singapore,Retail Store,4.00,1199.00,4796.00,3400.00,1396.00,New,Net Banking,July,2025,29.11%,low
+APL0242,21-03-2025,iPhone 15,Smartphone,Middle East,UAE,Distributor,3.00,799.00,2397.00,1650.00,747.00,New,Cash,March,2025,31.16%,low
+APL0243,28-11-2025,MacBook Pro,Laptop,Middle East,Saudi Arabia,Distributor,3.00,1999.00,5997.00,4350.00,1647.00,New,Card,November,2025,27.46%,high
+APL0244,26-09-2025,AirPods Pro,Audio,Middle East,UAE,Distributor,8.00,249.00,1992.00,1120.00,872.00,New,Card,September,2025,43.78%,low
+APL0245,02-08-2025,iPad Air,Tablet,Middle East,UAE,Online,6.00,699.00,4194.00,2880.00,1314.00,New,UPI,August,2025,31.33%,low
+APL0246,05-12-2025,iPhone 15,Smartphone,Europe,Germany,Distributor,7.00,799.00,5593.00,3850.00,1743.00,New,Cash,December,2025,31.16%,high
+APL0247,17-11-2025,AirPods Max,Audio,Asia,Japan,Retail Store,4.00,549.00,2196.00,1440.00,756.00,Returning,Card,November,2025,34.43%,low
+APL0248,27-10-2025,iPad Pro,Tablet,North America,Canada,Retail Store,1.00,999.00,999.00,700.00,299.00,New,Cash,October,2025,29.93%,low
+APL0249,30-05-2025,iPad Air,Tablet,Europe,France,Retail Store,2.00,699.00,1398.00,960.00,438.00,Returning,Cash,May,2025,31.33%,low
+APL0250,21-11-2025,MacBook Air,Laptop,North America,Canada,Online,1.00,1199.00,1199.00,850.00,349.00,Returning,UPI,November,2025,29.11%,low
